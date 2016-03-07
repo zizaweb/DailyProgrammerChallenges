@@ -1,4 +1,4 @@
-<?php
+<?php ß
 
 //Set the amount of switches
 
